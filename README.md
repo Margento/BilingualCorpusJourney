@@ -7,6 +7,8 @@ Cannes. A Bilingual Corpus Journey in Vector Prosody
 
 —Topographical poems translated into network topology poetry—
 
+[Presented as part of #GraphPoem @ DHSI 2021, https://www.youtube.com/watch?v=DWg6_2Y-kuQ, 1:54:35 - 2:22:14]
+
 A journey to Cannes in the summer of 2020, in the middle of the corona pandemic, occasioned an accumulation of poems in English and French. Poems on the destination, the Riviera, and the Mediterranean (a search that soon actually morphed into a French-poems-on-the-sea search), as well as poems amassed from other previous ‘real-world’ or digital space journeys: the CROWD Tour that crossed Europe from the Arctic circle to the Mediterranean in 2016, Publishing Sphere 2018 (Montreal), DHSI 2019 and 2020 (Victoria, B.C.), alongside more recent or recurrent readings worked their way into the collection. 
 
 The resulting bilingual corpus was then processed in its entirety by computing vectors for each poem based off of the FastText multilingual pre-trained word embeddings (trained on Common Crawl and Wikipedia) and repurposing the code written by Babylonhealth (https://github.com/babylonhealth/fastText_multilingual/blob/master/fasttext.py) for bilingual—English and French—applications. 
